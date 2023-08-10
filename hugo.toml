@@ -1,0 +1,4 @@
+baseURL = 'http://mcintyredu.github.io/'
+languageCode = 'en-gb'
+title = "Duncan's Tanzu Tips"
+theme = 'ananke'
